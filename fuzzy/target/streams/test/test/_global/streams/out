@@ -1,0 +1,16 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(fuzzy.FuzzySuite, org.scalatest.tools.Framework$$anon$1@4f0b5b48, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mFuzzySuite:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- universe apply returns correct value[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- numerical integration on polynomial is correct[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- numerical integration on triangle is correct[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- centroid on triangle is correct[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Centroid is found correctly for identity inference system[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Centroid is found correctly for inference system with two partially overlapping triangles[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Centroid is found correctly for restaurant inference system[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 541 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 7[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 7, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fuzzy.FuzzySuite[0m

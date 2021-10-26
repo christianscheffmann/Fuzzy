@@ -1,0 +1,29 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging C:\Users\Christian Scheffmann\Desktop\Repos\Fuzzy\fuzzy\target\scala-2.13\fuzzy_2.13-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fuzzy[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Christian Scheffmann\Desktop\Repos\Fuzzy\fuzzy\target\scala-2.13\classes\fuzzy[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fuzzy\Functions$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Christian Scheffmann\Desktop\Repos\Fuzzy\fuzzy\target\scala-2.13\classes\fuzzy\Functions$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fuzzy\Functions.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Christian Scheffmann\Desktop\Repos\Fuzzy\fuzzy\target\scala-2.13\classes\fuzzy\Functions.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fuzzy\Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Christian Scheffmann\Desktop\Repos\Fuzzy\fuzzy\target\scala-2.13\classes\fuzzy\Main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fuzzy\Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Christian Scheffmann\Desktop\Repos\Fuzzy\fuzzy\target\scala-2.13\classes\fuzzy\Main$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fuzzy\Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Christian Scheffmann\Desktop\Repos\Fuzzy\fuzzy\target\scala-2.13\classes\fuzzy\Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fuzzy\Mamdani.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Christian Scheffmann\Desktop\Repos\Fuzzy\fuzzy\target\scala-2.13\classes\fuzzy\Mamdani.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fuzzy\MembershipFunction.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Christian Scheffmann\Desktop\Repos\Fuzzy\fuzzy\target\scala-2.13\classes\fuzzy\MembershipFunction.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fuzzy\NumericalIntegration$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Christian Scheffmann\Desktop\Repos\Fuzzy\fuzzy\target\scala-2.13\classes\fuzzy\NumericalIntegration$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fuzzy\NumericalIntegration.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Christian Scheffmann\Desktop\Repos\Fuzzy\fuzzy\target\scala-2.13\classes\fuzzy\NumericalIntegration.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fuzzy\Rule$$anonfun$$lessinit$greater$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Christian Scheffmann\Desktop\Repos\Fuzzy\fuzzy\target\scala-2.13\classes\fuzzy\Rule$$anonfun$$lessinit$greater$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fuzzy\Rule.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Christian Scheffmann\Desktop\Repos\Fuzzy\fuzzy\target\scala-2.13\classes\fuzzy\Rule.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	fuzzy\Universe.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  C:\Users\Christian Scheffmann\Desktop\Repos\Fuzzy\fuzzy\target\scala-2.13\classes\fuzzy\Universe.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
